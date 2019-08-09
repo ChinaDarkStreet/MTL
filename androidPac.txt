@@ -29,6 +29,7 @@
 (^|\.)tumbex\.com$
 (^|\.)tvb\.com$
 (^|\.)twdvd\.com$
+(^|\.)bilibili\.com$
 (^|\.)xn--i2ru8q2qg\.com$
 (^|\.)ec2-54-210-142-85\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-174-24-124\.computer-1\.amazonaws\.com$
@@ -2026,7 +2027,6 @@
 (^|\.)google\.co\.zm$
 (^|\.)google\.co\.zw$
 (^|\.)google\.com$
-(^|\.)bilibili\.com$
 (^|\.)google\.com\.af$
 (^|\.)google\.com\.ag$
 (^|\.)google\.com\.ai$
