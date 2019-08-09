@@ -97,8 +97,6 @@
 (^|\.)\w*github\w*\.\w*$
 (^|\.)\w*gmail\w*\.\w*$
 (^|\.)\w*google\w*\.\w*$
-(^|\.)\w*lanzous\w*\.\w*$
-(^|\.)\w*bilibili\w*\.\w*$
 (^|\.)\w*instagram\w*\.\w*$
 (^|\.)\w*porn\w*\.\w*$
 (^|\.)\w*sci-hub\w*\.\w*$
@@ -2028,6 +2026,7 @@
 (^|\.)google\.co\.zm$
 (^|\.)google\.co\.zw$
 (^|\.)google\.com$
+(^|\.)bilibili\.com$
 (^|\.)google\.com\.af$
 (^|\.)google\.com\.ag$
 (^|\.)google\.com\.ai$
